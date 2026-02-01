@@ -41,3 +41,9 @@ __pycache__/
 # system
 .DS_Store
 Thumbs.db
+
+# secrets
+.env
+.env.*
+backend/service-account.json
+service-account.json
