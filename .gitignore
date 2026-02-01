@@ -22,3 +22,22 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# node
+node_modules/
+
+# env
+.env
+.env.local
+
+# build
+dist/
+build/
+
+# python
+venv/
+__pycache__/
+
+# system
+.DS_Store
+Thumbs.db
